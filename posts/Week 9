@@ -1,0 +1,16 @@
+---
+title: Week 9
+published_at: 2025-03-25
+snippet: 'Video Input: Hands, Body & Face'
+disable_html_sanitization: true
+allow_math: true
+---
+## High Compressibility
+
+<iframe src="https://editor.p5js.org/abbeyphillips/full/5FTz2z6Cb" id="W4I01"></iframe>
+
+<script type="module">
+    const iframe = document.getElementById (`W4I01`)
+    iframe.width = iframe.parentNode.scrollWidth
+    iframe.height = iframe.width * 9 / 16
+</script>
